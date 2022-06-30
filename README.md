@@ -7,6 +7,7 @@ Android app for ZIP password cracker(finder) using simple dictionary attack
 
 ## How to download
 Available at [Google Play Store](https://play.google.com/store/apps/details?id=com.better_life.zip_password_cracker&hl=ko&gl=US)
+<br>100,000+ Downloads
 
 ## Key features
 - Select file from android storage

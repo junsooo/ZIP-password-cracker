@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ZIP Password Cracker</string>
+    <string name="encrypted_zip_file_explanation">Select Encrypted ZIP File!</string>
+    <string name="select_file">Select File</string>
+    <string name="start_button">Start!</string>
+    <string name="share_this_app">Share!</string>
+    <string name="license">License</string>
+    <string name="zip_invalid">ZIP file is invalid. Try another ZIP file.</string>
+    <string name="zip_not_encrypted">ZIP file is not encrypted. You can just open it.</string>
+    <string name="clipboard_copy">Clipboard copied!</string>
+    <string name="password_found">Password found!</string>
+    <string name="no_password_found">No password found. Try another ZIP file.</string>
+    <string name="password">Password</string>
+    <string name="copy_button">COPY</string>
+    <string name="close_button">CLOSE</string>
+    <string name="permission_needed">Permission needed</string>
+    <string name="permission_needed_content">External storage permission is required to read the ZIP file.</string>
+    <string name="permission_denied_restart">Permission is denied. Please relaunch the app and allow the permission.</string>
+    <string name="permission_denied_settings">Permission is denied. Please allow permission in settings (app information).</string>
+    <string name="attack_method">Method: Dictionary attack</string>
+    <string name="ok">OK</string>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ZIP Password Cracker</string>
+    <string name="encrypted_zip_file_explanation">ZIP 파일을 선택해주세요.</string>
+    <string name="select_file">파일 선택</string>
+    <string name="start_button">시작</string>
+    <string name="share_this_app">공유하기</string>
+    <string name="license">라이센스</string>
+    <string name="zip_invalid">ZIP 파일이 올바르지 않습니다. 다른 ZIP 파일으로 시도해주세요.</string>
+    <string name="zip_not_encrypted">ZIP 파일이 잠겨있지 않습니다. 바로 열 수 있습니다.</string>
+    <string name="clipboard_copy">클립보드에 복사했습니다.</string>
+    <string name="password_found">패스워드를 찾았습니다!</string>
+    <string name="no_password_found">패스워드를 찾을 수 없었습니다. 다른 ZIP 파일으로 시도해주세요.</string>
+    <string name="password">패스워드</string>
+    <string name="copy_button">복사</string>
+    <string name="close_button">닫기</string>
+    <string name="permission_needed">권한이 필요합니다.</string>
+    <string name="permission_needed_content">ZIP 파일 압축을 풀기 위해 외부 저장소 권한이 필요합니다.</string>
+    <string name="permission_denied_restart">권한이 거부되었습니다. 앱을 재실행해서 권한을 허용해주세요.</string>
+    <string name="permission_denied_settings">권한이 거부되었습니다. 설정 - 앱 정보에서 권한을 허용해주세요.</string>
+    <string name="attack_method">방식: Dictionary attack</string>
+    <string name="ok">OK</string>
+</resources>
